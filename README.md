@@ -1,4 +1,4 @@
-# **Clustering and Comparing the Neighborhoods of New York City** 
+# Clustering and Comparing the Neighborhoods of New York City and Toronto
 
 ![](1.png)
 
