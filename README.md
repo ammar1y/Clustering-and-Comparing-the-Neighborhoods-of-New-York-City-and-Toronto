@@ -11,7 +11,7 @@ Foursquare API was used to retrieve data on the venues of the neighborhoods and 
 This repository contains the following files:
 
 - The `Report.pdf` file is the PDF report of the project. It contains detailed explanation of the stages of the project.
-- The `Notebook.ipynb` file is the Jupyter notebook that contains all the code used to conduct the project.
+- The `Notebook.ipynb` file is the Jupyter notebook that contains all the code used to conduct the project. `newyork_data.json` file is needed when running the notebook code.
 
 You can also read my blog post about this project [here](http://ammar-alyousfi.com/2019/comparing-and-clustering-the-neighborhoods-of-new-york-city-and-toronto).
 
